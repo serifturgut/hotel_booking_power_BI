@@ -14,6 +14,22 @@
 
 ## The highest average revenue comes from online bookings, with an average of $114. Here, an interesting insight emerges: although the second most common reservation type is Offline TA/TO, it ranks fourth in terms of revenue, with an average of $83. If we can shift these customers to the online segment, we could significantly increase our profitability.
 
+![h_b_3](https://github.com/user-attachments/assets/5c2db98d-f7cf-4683-8fb7-9c983b07345b)
+
+## On this page, the data is visualized based on the number of reservations. The average length of stay is 3 days, and reservations are typically made an average of 79.67 days in advance.
+
+## It is observed that most reservations come from Portugal. Since the Portuguese market has reached saturation, it would be more logical to focus on other countries. Specifically, marketing campaigns and promotional activities targeted at Ireland could help bring the number of reservations from Ireland closer to those of other countries.
+
+
+![h_b_4](https://github.com/user-attachments/assets/2a7ea9b1-b96f-4de1-b570-2b9b595f65c4)
+
+## The final page features a guest-based dashboard. The highest number of guests, 36,562, comes from Portugal. Portuguese guests make up 26% of all guests.
+
+## Looking at the graph for July and August, we can conclude that our hotels are summer-oriented. The lower numbers in June can be attributed to schools not yet being on summer break. The similarity between the graphs for June and September further supports this argument.
+
+
+
+
 
 
 
